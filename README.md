@@ -3,6 +3,7 @@
 ### Project Overview
 
 A simple node environment bootstrapped with Typescript and Jest.
+Watch the video series on the V School channel - https://www.youtube.com/channel/UCSD751HQwIFQOyOd7ZjBogA/videos
 
 ### Get Started
 
